@@ -1,0 +1,6 @@
+{
+  "name": "𝕆𝔻𝔸𝕀 𝗗𝗔𝗥𝗞 ℍ𝔸ℂ𝕂𝕊 Browser",
+  "description": "High performance mobile browser with offline page archiver, download manager, bookmarking, and APK generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
